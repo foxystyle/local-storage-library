@@ -1,0 +1,27 @@
+{
+  "name": "local-storage-library",
+  "authors": [
+    "kunok <kunokdev@gmail.com>"
+  ],
+  "description": "A lightweight library with methods related to local storage.",
+  "main": "localstorage.min.js",
+  "moduleType": [],
+  "keywords": [
+    "local",
+    "storage",
+    "localStorage",
+    "local-storage",
+    "local-storage-library",
+    "lightweight",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.kunokdev.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

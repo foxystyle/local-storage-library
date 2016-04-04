@@ -1,0 +1,27 @@
+{
+  "name": "local-storage-library",
+  "version": "1.1.1",
+  "description": "A lightweight library with methods related to local storage.",
+  "main": "localstorage.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunokdev/local-storage-library.git"
+  },
+  "keywords": [
+    "local",
+    "storage",
+    "local-storage",
+    "local-storage-library",
+    "library",
+    "lightweight"
+  ],
+  "author": "kunokdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunokdev/local-storage-library/issues"
+  },
+  "homepage": "https://github.com/kunokdev/local-storage-library#readme"
+}
